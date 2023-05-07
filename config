@@ -7,10 +7,10 @@
 	ignorecase = true
 	hideDotFiles = dotGitOnly
 [user]
-	email = support@movitime.github.io
-	name = movitime
+	email = support@config_name.github.io
+	name = config_name
 [remote "origin"]
-	url = https://"movitime":"Nc5ULmYTn4@BeFE"@github.com/movitime/movitime.github.io.git
+	url = https://"config_name":"config_password"@github.com/config_name/config_name.github.io.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
         remote = origin
