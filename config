@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[user]
+	email = support@movitime.github.io
+	name = movitime
+[remote "origin"]
+	url = https://"movitime":"Nc5ULmYTn4@BeFE"@github.com/movitime/movitime.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+[branch "main"]
+        remote = origin
+        merge = refs/heads/main
+
